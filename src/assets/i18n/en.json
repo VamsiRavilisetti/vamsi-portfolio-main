@@ -4,7 +4,7 @@
     "Header.Item3": "Projects",
     "Header.Item4": "Contact",
     "Header.cvBtn": "Resume",
-    "Header.cvName": "MUFFEEZ_CV.pdf",
+    "Header.cvName": "vamsi_ravilisetti_resume.pdf",
     "Banner.Pretitle": "Hello! My name is",
     "Banner.Description": "I have <span class='underline'>2.5 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular, NodeJS and JavaScript, TypeScript</span> and sometimes in <span class='underline'>Python</span> applying good practices and development standards.",
     "Banner.ActionBtn": "Get in touch",
@@ -17,41 +17,31 @@
     "Experience.Title": "Experience",
     "Experience.Jobs": [
         {
-            "Tab": "Emblem",
-            "Title": "Fullstack developer",
-            "Date": "March 2022 - Present",
+            "Tab": "Knoxpo",
+            "Title": "Angular developer",
+            "Date": "September 2023 - Present",
             "Description": [
-                "Developed and maintained a web-based application using Angular, Node.js, and MongoDB, resulting in improved user experience and increased performance.",
-                "Designed and implemented RESTful APIs to support multiple applications, using Node.js and Express.",
-                "Built a real-time chat application using WebSockets and Node.js, increasing communication and collaboration among team members.",
+                "Developed and maintained Angular applications resulting in increased increased efficiency by 20% in 3 months.",
+                "Designed and implemented RESTful APIs to support multiple applications, using angular.",
+                "Led front-end development of a EKYC project from built scratch using Angular with Micro-front end architecture.",
                 "Implementation of continuous integration and daily backups.",
-                "Leading a team of 4 people in the development of a E-commerce platform made in React, Node, and MySQL.",
-                "Planning meetings in reports."
+                "Leading a team of 4 people in the development of a EKYC platform made in Angular, Java, and MongoDB.",
+                "Planning meetings in reports.",
+                "Implemented responsive design using HTML and CSS resulting in 15% increase in user engagement."
             ]
         },
         
         {
-            "Tab": "BCM",
-            "Title": "Frontend developer",
-            "Date": "October 2020 - Feburary 2022",
+            "Tab": "LTIMindtree",
+            "Title": "Software Engineer",
+            "Date": "September 2021 - August 2023",
             "Description": [
-                "Developed and maintained web applications using Angular and React.",
+                "Developed and maintained web applications using Angular.",
                 "Implementation CI / CD in AWS. Refactoring and optimizing application load times.",
                 "Coding of API requests with RxJS.",
                 "Creation of modules with complex reactive forms",
                 "Improved website performance by optimizing images and implementing caching techniques.",
                 "Collaborated with designers and back-end developers to create responsive and user-friendly web experiences"
-            ]
-        },
-        {
-            "Tab": "Freelancer",
-            "Title": "Independent",
-            "Date": "March 2020 - Present",
-            "Description": [
-                "Implementing continuous improvements, working on frontend and backend.",
-                "Creating platforms with Angular, Nodejs, ExpressJS, WordPress programmed with functional, reactive, and object-oriented programming paradigms.",
-                "Automation of processes with data structures.",
-                "Design layout with SASS, Bootstrap, Materialize, Prime Faces, etc."
             ]
         }
     ],
@@ -59,61 +49,52 @@
     "FeatureProjects.Label": "Featured Project",
     "FeatureProjects.Projects": [
         {
-            "Title": "2x School",
-            "Description": "A Next Generation School Management System application made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, and <span class='underline'>user management</span>. It also has feedback form logic for parameter configuration.",
+            "Title": "Knoxpo EKYC Project",
+            "Description": "E-KYC or electronic Know Your Customer is essentially the process by which KYC is done. So, eKYC is when authorised organisations and agents verify a customer’s identity and address digitally",
             "imgs": [
-                "assets/images/school/image1.png",
-                "assets/images/school/image2.png"
+                "assets/images/EKYC/image1.png",
+                "assets/images/EKYC/image2.png",
+                "assets/images/EKYC/image3.png"
             ],
             "Technologies": [
                 "Angular",
                 "SASS",
-                "Angular Material",
+                "Angular CDK",
                 "RxJS"
             ]
         },
         {
-            "Title": "Best Buy Mall",
-            "Description": "Best Buy Mall is Online Shopping Mall where you can buy your groceries and household products from your favourite local stores. It has <span class='underline'>online chat, </span, <span class='underline'> &nbsp;order history</span>, <span class='underline'>notification system on number and mail</span>, <span class='underline'>auth</span>, and <span class='underline'>stripe integration for secure payments.</span>",
+            "Title": "Connect 365 Automated Email campaign project",
+            "Description": "Connect 365 is a client attraction and sales automation platform that provides simple solutions to help small and medium sized businesses start more sales conversations with qualified prospects every day of the year while <span class='underline'> eliminating 90% of their marketing workload.</span>",
             "imgs": [
-                "assets/images/bbm/image1.png",
-                "assets/images/bbm/image2.png"
+                "assets/images/c365/image1.png",
+                "assets/images/c365/image2.png",
+                "assets/images/c365/image2.png"
             ],
             "Technologies": [
                 "Angular",
                 "SASS",
-                "Material",
+                "TypeScript",
                 "RxJS",
-                "ExpressJS"
+                "JavaScript",
+                "Ionic"
             ]
         },
         {
-            "Title": " Mazhr",
-            "Description": " Mazhr is a Finnish Intelligent Potential and Talent Management company. that help organizations to build better and more efficient teams by matching their  <span class='underline'>Talent</span> and <span class='underline'>Potentials</span>. It has various installations made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, <span class='underline'>user management</span>, and <span class='underline'>geolocation with openlayers.</span>",
+            "Title": "L & T Electrical Smartshopt",
+            "Description": "L & T Electrical Smart shop is an e-commerce project in collaboration with Schneider Electric where all the electrical products user can buy. This project will be going to be operational in India and European countries.",
             "imgs": [
-                "assets/images/mazhr/image1.png"
+                "assets/images/LTI/image1.png",
+                "assets/images/LTI/image2.png",
+                "assets/images/LTI/image3.png",
+                "assets/images/LTI/image4.png"
             ],
             "Technologies": [
-                "React",
+                "Amgular",
                 "SASS",
                 "Material",
-                "Babel",
-                "NodeJS"
-            ]
-        },
-        {
-            "Title": "Needle",
-            "Description": "Needle Music is a pioneer in the digital music industry as it allows users to create and manage their first and only Audiobiography. It built with the <span class='underline'>Spotify SDK</span> Integration.",
-            "imgs": [
-                "assets/images/mazhr/needle.png"
-            ],
-            "demoLink": "https://profile.needlemusic.co/bub",
-            "Technologies": [
-                "React",
-                "ChartJS",
-                "SASS",
-                "NodeJS",
-                "Python"
+                "GraphQl",
+                "Magento"
             ]
         }
     ],
