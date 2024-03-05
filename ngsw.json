@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1709640119939,
+  "timestamp": 1709640637837,
   "index": "https://vamsiravilisetti.github.io/vamsi-portfolio-main/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://vamsiravilisetti.github.io/vamsi-portfolio-main/favicon.ico",
         "https://vamsiravilisetti.github.io/vamsi-portfolio-main/index.html",
-        "https://vamsiravilisetti.github.io/vamsi-portfolio-main/main.f52b178e4a39aafe.js",
+        "https://vamsiravilisetti.github.io/vamsi-portfolio-main/main.941ba3e3a80bbdd9.js",
         "https://vamsiravilisetti.github.io/vamsi-portfolio-main/manifest.webmanifest",
         "https://vamsiravilisetti.github.io/vamsi-portfolio-main/polyfills.fb2c24ce07d05685.js",
         "https://vamsiravilisetti.github.io/vamsi-portfolio-main/runtime.c9807f2cd1164b2d.js",
@@ -246,8 +246,8 @@
     "https://vamsiravilisetti.github.io/vamsi-portfolio-main/fa-solid-900.6bcd6c9c0a9fcfbf.woff2": "a9922842a120a7f1eaced667480c5e185a106d69",
     "https://vamsiravilisetti.github.io/vamsi-portfolio-main/fa-solid-900.9d21645b52658faa.svg": "33fe5758f3992d8da2635c4fa230b54376dd18d1",
     "https://vamsiravilisetti.github.io/vamsi-portfolio-main/favicon.ico": "97c827d7b24e8fa8795e691c55f62129e3c29f6d",
-    "https://vamsiravilisetti.github.io/vamsi-portfolio-main/index.html": "21c8598e83516385cc37d058d422485aace04a91",
-    "https://vamsiravilisetti.github.io/vamsi-portfolio-main/main.f52b178e4a39aafe.js": "2957a42ec0b515895d81ef414bf2c0f9d083cd97",
+    "https://vamsiravilisetti.github.io/vamsi-portfolio-main/index.html": "fd58329f7cbd31ed200c9a05095be06f593e5e71",
+    "https://vamsiravilisetti.github.io/vamsi-portfolio-main/main.941ba3e3a80bbdd9.js": "53f26d31356cd02c5e68c662a15cb12df018bc2e",
     "https://vamsiravilisetti.github.io/vamsi-portfolio-main/manifest.webmanifest": "3e435a19dd248d3d728410a8ccd92a87c7eb38b3",
     "https://vamsiravilisetti.github.io/vamsi-portfolio-main/owl.video.play.e3b436436832b027.png": "c0d64356ec2758cb280d183b4829c923e5ff61e5",
     "https://vamsiravilisetti.github.io/vamsi-portfolio-main/polyfills.fb2c24ce07d05685.js": "5d4a611b8b5165d4a55d549d7078f337116de965",
