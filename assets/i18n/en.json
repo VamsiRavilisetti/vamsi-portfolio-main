@@ -101,53 +101,28 @@
     "OtherProjects.Title": "More personal projects",
     "OtherProjects.Projects": [
         {
-            "Title": "Covid Tracker",
-            "Description": "Covid Tracker is a web app which is built using the 3rd Party Api integration. This app shows the records from worldwise and countrywise that shows the who much patient are suffer from covid who many died from covid and how many are recoverd from covid",
-            "ghLink": "https://github.com/mufeez1/carona19-tracker",
-            "demoLink": "http://carona19-by-muffeez.surge.sh/",
+            "Title": "GITHUB BROWSER",
+            "Description": "GITHUB BROWSER is a github repository management tool the user can add a public repository and can check commits of branches and issues in that repositories",
+            "ghLink": "https://github.com/VamsiRavilisetti/Git-Repo-Management/",
+            "demoLink": "https://vamsiravilisetti.github.io/Git-Repo-Management/",
             "Technologies": [
                 "Angular",
                 "RxJs",
                 "API",
-                "Bootstrap"
-            ]
-        },
-        {
-            "Title": "Lets Chat",
-            "Description": "A real-time chat application. Another fun side project :)",
-            "ghLink": "https://github.com/mufeez1/lets-chat",
-            "Technologies": [
-                "React",
-                "SASS",
-                "Socket.io",
-                "NodeJS",
-                "ExpressJS",
-                "Firebase"
-            ]
-        },
-        {
-            "Title": "Quiz App",
-            "Description": "A single page quiz app that has a minimal design, that has different level to attempt quizes.",
-            "ghLink": "https://github.com/mufeez1/quizapp",
-            "demoLink": "https://github.com/mufeez1/quizapp",
-            "Technologies": [
-                "React",
-                "SASS",
                 "TypeScript",
-                "API",
-                "3rd Party Library"
+                "SCSS"
             ]
         },
         {
-            "Title": "JWT Integration",
-            "Description": "JWT AUTHENTICATION IN NODE JS WITH POSTGREESQL DB",
-            "ghLink": "https://github.com/mufeez1/node-jwt",
-            "demoLink": "https://github.com/mufeez1/node-jwt",
+            "Title": "Personal Portfolio",
+            "Description": "This a personal portfolio of Vamsi Ravilisetti in this Peronal details, Projects, Experiences Addded.",
+            "ghLink": "https://github.com/VamsiRavilisetti/vamsi-portfolio-main/",
+            "demoLink": "https://vamsiravilisetti.github.io/vamsi-portfolio-main/",
             "Technologies": [
-                "React",
-                "JWT",
-                "ExpressJS",
-                "POSTGREESQL"
+                "Angular",
+                "RxJs",
+                "Bootstrap",
+                "Material"
             ]
         }
     ],
